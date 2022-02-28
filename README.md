@@ -4,14 +4,14 @@
 
 ## 个人信息 
 
-* 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&ensp;&ensp;年 龄：25  
-* 手 机：15010736506 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;邮 箱：1980744819@qq.com
-* 专 业：计算机科学与计算 &emsp;&emsp;&emsp;&ensp;&ensp;岗 位：go / python 工程师
+* 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;年 龄：25  
+* 手 机：15010736506 &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;邮 箱：1980744819@qq.com
+* 专 业：计算机科学与计算 &emsp;&emsp;&emsp;&emsp;岗 位：go / python 工程师
 
 ## 工作及教育经历
 
-* 前公司&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;2020.5~至今&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;星药科技-平台开发团队
-* 北京化工大学&emsp;&emsp;2015.9~2019.7&emsp;&emsp;&emsp;&emsp; 计算机科学与技术专业- 本科生
+* 前公司&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2020.5~至今&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;星药科技-平台开发团队
+* 北京化工大学&emsp;&emsp; 2015.9~2019.7&emsp;&emsp;&emsp;&emsp; 计算机科学与技术专业- 本科生
  
 
 ## 专业技能
