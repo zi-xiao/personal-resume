@@ -10,7 +10,7 @@
 
 ## 工作及教育经历
 
-* 前公司&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2020.5~至今&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;星药科技-平台开发团队
+* 公司&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2020.5~至今&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;星药科技-平台开发团队
 * 北京化工大学&emsp;&emsp; 2015.9~2019.7&emsp;&emsp;&emsp;&emsp; 计算机科学与技术专业- 本科生
  
 
